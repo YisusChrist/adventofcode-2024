@@ -48,10 +48,13 @@ To run a specific day's solution:
 
 # 🧩 Challenges Solved
 
-| Day | Title              | Stars 🌟 |
-| --- | ------------------ | -------- |
-| 1   | Historian Hysteria | ⭐⭐     |
-| 2   | Coming Soon...     |
+| Day       | Title                                | Stars 🌟 |
+| --------- | ------------------------------------ | -------- |
+| [1](./01) | [Historian Hysteria](./01/README.md) | ⭐⭐     |
+| [2](./02) | [Red-Nosed Reports](./02/README.md)  | ⭐⭐     |
+| [3](./03) | [Mull It Over](./03/README.md)       | ⭐⭐     |
+| [4](./04) | [Ceres Search](./04/README.md)       | ⭐⭐     |
+| [5](./05) | [Snowball Fight](./05/README.md)     | ⭐⭐     |
 
 Stay tuned as more solutions are added daily during December!
 
