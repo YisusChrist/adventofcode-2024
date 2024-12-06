@@ -28,7 +28,7 @@ Each day's challenge is stored in a subfolder (dayXX/), containing:
 
 - `input.txt`: The puzzle input for the day.
 - `solution.py`: My solution in Python (might expand to other languages later).
-- `challenge.md`: A brief description of the challenge and approach.
+- `README.md`: A brief description of the challenge and approach.
 
 # 🚀 Running Solutions
 
