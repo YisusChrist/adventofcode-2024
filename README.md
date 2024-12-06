@@ -1,6 +1,6 @@
 # 🎄 Advent of Code 2024
 
-Welcome to my repository of coding challenges! Here, you'll find my solutions to [Advent of Code 2024](https://adventofcode.com/2024) puzzles and other intriguing problems I tackle along the way.
+Welcome to my repository of coding challenges! Here, you'll find my solutions to [Advent of Code 2024](https://adventofcode.com/2024) puzzles.
 
 <details>
 
