@@ -55,6 +55,7 @@ To run a specific day's solution:
 | [3](./03) | [Mull It Over](./03/README.md)       | ⭐⭐     |
 | [4](./04) | [Ceres Search](./04/README.md)       | ⭐⭐     |
 | [5](./05) | [Print Queue](./05/README.md)        | ⭐⭐     |
+| [6](./06) | [Guard Gallivant](./06/README.md)    | ⭐       |
 
 Stay tuned as more solutions are added daily during December!
 
