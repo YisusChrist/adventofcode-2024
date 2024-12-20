@@ -49,15 +49,16 @@ To run a specific day's solution:
 # 🧩 Challenges Solved
 
 | Day       | Title                                   | Stars 🌟 |
-| --------- | --------------------------------------- | -------- |
-| [1](./01) | [Historian Hysteria](./01/README.md)    | ⭐⭐     |
-| [2](./02) | [Red-Nosed Reports](./02/README.md)     | ⭐⭐     |
-| [3](./03) | [Mull It Over](./03/README.md)          | ⭐⭐     |
-| [4](./04) | [Ceres Search](./04/README.md)          | ⭐⭐     |
-| [5](./05) | [Print Queue](./05/README.md)           | ⭐⭐     |
-| [6](./06) | [Guard Gallivant](./06/README.md)       | ⭐⭐     |
-| [7](./07) | [Bridge Repair](./07/README.md)         | ⭐⭐     |
-| [8](./08) | [Resonant Collinearity](./08/README.md) | ⭐⭐     |
+| --------- | --------------------------------------- | ------- |
+| [1](./01) | [Historian Hysteria](./01/README.md)    | ⭐⭐      |
+| [2](./02) | [Red-Nosed Reports](./02/README.md)     | ⭐⭐      |
+| [3](./03) | [Mull It Over](./03/README.md)          | ⭐⭐      |
+| [4](./04) | [Ceres Search](./04/README.md)          | ⭐⭐      |
+| [5](./05) | [Print Queue](./05/README.md)           | ⭐⭐      |
+| [6](./06) | [Guard Gallivant](./06/README.md)       | ⭐⭐      |
+| [7](./07) | [Bridge Repair](./07/README.md)         | ⭐⭐      |
+| [8](./08) | [Resonant Collinearity](./08/README.md) | ⭐⭐      |
+| [9](./09) | [Disk Fragmenter](./09/README.md)       | ⭐⭐      |
 
 Stay tuned as more solutions are added daily during December!
 
