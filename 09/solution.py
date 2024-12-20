@@ -1,6 +1,4 @@
 from pathlib import Path
-import re
-from typing import Callable
 
 
 def read_input() -> str:
