@@ -60,6 +60,7 @@ To run a specific day's solution:
 | [8](./08)  | [Resonant Collinearity](./08/README.md) | ⭐⭐      |
 | [9](./09)  | [Disk Fragmenter](./09/README.md)       | ⭐⭐      |
 | [10](./10) | [Hoof It](./10/README.md)               | ⭐⭐      |
+| [11](./11) | [Plutonian Pebbles](./11/README.md)     | ⭐⭐      |
 
 Stay tuned as more solutions are added daily during December!
 
