@@ -61,6 +61,5 @@ def solution2() -> None:
     find_solution(75)
 
 
-if __name__ == "__main__":
-    solution1()
-    solution2()
+solution1()
+solution2()
