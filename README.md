@@ -48,19 +48,31 @@ To run a specific day's solution:
 
 # 🧩 Challenges Solved
 
-| Day        | Title                                   | Stars 🌟 |
-| ---------- | --------------------------------------- | ------- |
-| [1](./01)  | [Historian Hysteria](./01/README.md)    | ⭐⭐      |
-| [2](./02)  | [Red-Nosed Reports](./02/README.md)     | ⭐⭐      |
-| [3](./03)  | [Mull It Over](./03/README.md)          | ⭐⭐      |
-| [4](./04)  | [Ceres Search](./04/README.md)          | ⭐⭐      |
-| [5](./05)  | [Print Queue](./05/README.md)           | ⭐⭐      |
-| [6](./06)  | [Guard Gallivant](./06/README.md)       | ⭐⭐      |
-| [7](./07)  | [Bridge Repair](./07/README.md)         | ⭐⭐      |
-| [8](./08)  | [Resonant Collinearity](./08/README.md) | ⭐⭐      |
-| [9](./09)  | [Disk Fragmenter](./09/README.md)       | ⭐⭐      |
-| [10](./10) | [Hoof It](./10/README.md)               | ⭐⭐      |
-| [11](./11) | [Plutonian Pebbles](./11/README.md)     | ⭐⭐      |
+| Day        | Title                                    | Stars 🌟 |
+| ---------- | ---------------------------------------- | ------- |
+| [1](./01)  | [Historian Hysteria](./01/README.md)     | ⭐⭐      |
+| [2](./02)  | [Red-Nosed Reports](./02/README.md)      | ⭐⭐      |
+| [3](./03)  | [Mull It Over](./03/README.md)           | ⭐⭐      |
+| [4](./04)  | [Ceres Search](./04/README.md)           | ⭐⭐      |
+| [5](./05)  | [Print Queue](./05/README.md)            | ⭐⭐      |
+| [6](./06)  | [Guard Gallivant](./06/README.md)        | ⭐⭐      |
+| [7](./07)  | [Bridge Repair](./07/README.md)          | ⭐⭐      |
+| [8](./08)  | [Resonant Collinearity](./08/README.md)  | ⭐⭐      |
+| [9](./09)  | [Disk Fragmenter](./09/README.md)        | ⭐⭐      |
+| [10](./10) | [Hoof It](./10/README.md)                | ⭐⭐      |
+| [11](./11) | [Plutonian Pebbles](./11/README.md)      | ⭐⭐      |
+| [12](./12) | [Garden Groups](./12/README.md)          | ⭐       |
+| [13](./13) | [Claw Contraption](./13/README.md)       |         |
+| [14](./14) | [Restroom Redoubt](./14/README.md)       |         |
+| [15](./15) | [Warehouse Woes](./15/README.md)         |         |
+| [16](./16) | [Reindeer Maze](./16/README.md)          |         |
+| [17](./17) | [Chronospatial Computer](./17/README.md) |         |
+| [18](./18) | [RAM Run](./18/README.md)                |         |
+| [19](./19) | [Linen Layout](./19/README.md)           |         |
+| [20](./20) | [Race Condition](./20/README.md)         |         |
+| [21](./21) | [Keypad Conundrum](./21/README.md)       |         |
+| [22](./22) | [Monkey Market](./22/README.md)          |         |
+
 
 Stay tuned as more solutions are added daily during December!
 
